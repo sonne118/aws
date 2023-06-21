@@ -1,0 +1,126 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lambda-Annotations/1.0.0": {
+        "dependencies": {
+          "AWSSDK.DynamoDBv2": "3.7.5.14",
+          "Amazon.Lambda.APIGatewayEvents": "2.5.0",
+          "Amazon.Lambda.Annotations": "0.8.0-preview",
+          "Amazon.Lambda.Core": "2.1.0",
+          "Amazon.Lambda.Serialization.SystemTextJson": "2.3.0"
+        },
+        "runtime": {
+          "Lambda-Annotations.dll": {}
+        }
+      },
+      "Amazon.Lambda.Annotations/0.8.0-preview": {
+        "runtime": {
+          "lib/net6.0/Amazon.Lambda.Annotations.dll": {
+            "assemblyVersion": "0.8.0.0",
+            "fileVersion": "0.8.0.0"
+          }
+        }
+      },
+      "Amazon.Lambda.APIGatewayEvents/2.5.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/Amazon.Lambda.APIGatewayEvents.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.2.0.0"
+          }
+        }
+      },
+      "Amazon.Lambda.Core/2.1.0": {
+        "runtime": {
+          "lib/net6.0/Amazon.Lambda.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Amazon.Lambda.Serialization.SystemTextJson/2.3.0": {
+        "dependencies": {
+          "Amazon.Lambda.Core": "2.1.0"
+        },
+        "runtime": {
+          "lib/net6.0/Amazon.Lambda.Serialization.SystemTextJson.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "AWSSDK.Core/3.7.13.18": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.13.18"
+          }
+        }
+      },
+      "AWSSDK.DynamoDBv2/3.7.5.14": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.13.18"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.DynamoDBv2.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.5.14"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lambda-Annotations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Amazon.Lambda.Annotations/0.8.0-preview": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TL2Ixr7Debft/oz7RLfs86oumVJuTeayTul/3Irr8n8MevopI0+7pleUVAcYQz3Q6W8bmBW3h31onZBq1bIbzw==",
+      "path": "amazon.lambda.annotations/0.8.0-preview",
+      "hashPath": "amazon.lambda.annotations.0.8.0-preview.nupkg.sha512"
+    },
+    "Amazon.Lambda.APIGatewayEvents/2.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-u2M1e8e+eahgwSpa2jhBaakH37EgIZcHqmqpK/9DD/PMygxK5g7LPyUl6SRFnVnmVyD0zvjEh8lYnpYULY6WIQ==",
+      "path": "amazon.lambda.apigatewayevents/2.5.0",
+      "hashPath": "amazon.lambda.apigatewayevents.2.5.0.nupkg.sha512"
+    },
+    "Amazon.Lambda.Core/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ok06UhfBZw6j6+PhiJR9C0EOMuJvnq8rMCHVkaFmPFrlI/q447ukwGZQKaAKqodV+MNTfpb/iPxjgUPVbSlVVw==",
+      "path": "amazon.lambda.core/2.1.0",
+      "hashPath": "amazon.lambda.core.2.1.0.nupkg.sha512"
+    },
+    "Amazon.Lambda.Serialization.SystemTextJson/2.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qgFCDJp5lyUNqCq1z18U7fZ/+rmMyw6RJf9nKfnJrf79YupDj02klQAjxymEYN66NykWXyc68SGkow6fy53hfg==",
+      "path": "amazon.lambda.serialization.systemtextjson/2.3.0",
+      "hashPath": "amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512"
+    },
+    "AWSSDK.Core/3.7.13.18": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QGXw5QL10f3inaBT7whFRu8eW5vF/OCoqh2CAgvPMJn0TQ2P3jv+PN3mVnaMIowwBxF2y8OdQI8SlAle8HyBFw==",
+      "path": "awssdk.core/3.7.13.18",
+      "hashPath": "awssdk.core.3.7.13.18.nupkg.sha512"
+    },
+    "AWSSDK.DynamoDBv2/3.7.5.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WJ5OOkQvQkczpXNopRf4RJZBtXT1Dx14TygH0Q6uBOt/i3ibe1XXR57fUZOjNnl95bNpmSSCHB5o20f/Dn0BMw==",
+      "path": "awssdk.dynamodbv2/3.7.5.14",
+      "hashPath": "awssdk.dynamodbv2.3.7.5.14.nupkg.sha512"
+    }
+  }
+}

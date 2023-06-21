@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "8w95385cHtwH4xrTvh2xlCqFNhJBPp+owL8uPmJHzJoJQdICGjfUGjRyjFZ+NHUYq15mSlFCFD6txK4q2YVt8Q==",
+  "success": true,
+  "projectFilePath": "D:\\repo\\aws\\AWS_Lambda\\Lambda-Annotations\\Lambda-Annotations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vitah\\.nuget\\packages\\amazon.lambda.annotations\\0.8.0-preview\\amazon.lambda.annotations.0.8.0-preview.nupkg.sha512",
+    "C:\\Users\\Vitah\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.5.0\\amazon.lambda.apigatewayevents.2.5.0.nupkg.sha512",
+    "C:\\Users\\Vitah\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\Vitah\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.0\\amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512",
+    "C:\\Users\\Vitah\\.nuget\\packages\\awssdk.core\\3.7.13.18\\awssdk.core.3.7.13.18.nupkg.sha512",
+    "C:\\Users\\Vitah\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.5.14\\awssdk.dynamodbv2.3.7.5.14.nupkg.sha512",
+    "C:\\Users\\Vitah\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.8\\microsoft.netcore.app.crossgen2.win-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

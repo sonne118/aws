@@ -1,0 +1,10 @@
+C:\repo\aws\AWS_Lambda\Lambda-Annotations\bin\Release\net6.0\publish\Lambda-Annotations.deps.json
+C:\repo\aws\AWS_Lambda\Lambda-Annotations\bin\Release\net6.0\publish\Lambda-Annotations.runtimeconfig.json
+C:\repo\aws\AWS_Lambda\Lambda-Annotations\bin\Release\net6.0\publish\Lambda-Annotations.pdb
+C:\repo\aws\AWS_Lambda\Lambda-Annotations\bin\Release\net6.0\publish\Amazon.Lambda.Annotations.dll
+C:\repo\aws\AWS_Lambda\Lambda-Annotations\bin\Release\net6.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\repo\aws\AWS_Lambda\Lambda-Annotations\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\repo\aws\AWS_Lambda\Lambda-Annotations\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\repo\aws\AWS_Lambda\Lambda-Annotations\bin\Release\net6.0\publish\AWSSDK.Core.dll
+C:\repo\aws\AWS_Lambda\Lambda-Annotations\bin\Release\net6.0\publish\AWSSDK.DynamoDBv2.dll
+C:\repo\aws\AWS_Lambda\Lambda-Annotations\bin\Release\net6.0\publish\Lambda-Annotations.dll
